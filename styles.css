@@ -1,16 +1,33 @@
-.jumbotron
+body
 {
-    background-color: #c996e0;
+    z-index: 0;
 }
 
-.footer
+.jumbotron
 {
-    background-color: #c996e0;
+    background-color: #e4e3e3;
+}
+
+footer
+{
+    background-color: #e4e3e3;
     padding-top: 20px;
 }
 
 .content-pad
 {
     padding: 20px auto;
+}
+
+.navbar
+{
+    color: white;
+    background-color: #84a9ac;
+}
+
+.nav-item
+{
+    color: white;
+    font-weight: 400;
 }
 
