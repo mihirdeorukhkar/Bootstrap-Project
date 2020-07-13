@@ -31,4 +31,14 @@ footer
     font-weight: 400;
 }
 
+div.content{
+    margin: 3em 0em;
+}
+
+
+.btn-block,.card-header,.sub-button
+{
+    background-color: #3a4242;
+}
+
 
