@@ -79,3 +79,15 @@ div.content{
     position: absolute;
     top: 0;
 }
+
+#mycarousel
+{
+    position: relative;
+}
+
+#carouselBtn
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
